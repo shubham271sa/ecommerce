@@ -1,0 +1,76 @@
+{
+    "vegetables": [
+        {
+            "item": "Carrot",
+            "price": 150,
+            "image": "carrot.jpg"
+        },
+        {
+            "item": "Broccoli",
+            "price": 80,
+            "image": "broccoli.jpg"
+        },
+        {
+            "item": "Spinach",
+            "price": 100,
+            "image": "spinach.jpg"
+        },
+        {
+            "item": "Cabbage",
+            "price": 60,
+            "image": "cabbage.jpg"
+        },
+        {
+            "item": "Bell Pepper",
+            "price": 70,
+            "image": "bell_pepper.jpg"
+        },
+        {
+            "item": "Tomato",
+            "price": 50,
+            "image": "tamato.png"
+        },
+        {
+            "item": "Onion",
+            "price": 40,
+            "image": "onion.png"
+        }
+    ],
+    "fruits": [
+        {
+            "item": "Apple",
+            "price": 120,
+            "image": "apple.png"
+        },
+        {
+            "item": "Banana",
+            "price": 40,
+            "image": "banana.jpg"
+        },
+        {
+            "item": "Orange",
+            "price": 80,
+            "image": "orange.jpg"
+        },
+        {
+            "item": "Mango",
+            "price": 200,
+            "image": "mango.jpg"
+        },
+        {
+            "item": "Grapes",
+            "price": 90,
+            "image": "grapes.jpg"
+        },
+        {
+            "item": "Watermelon",
+            "price": 70,
+            "image": "watermelon.jpg"
+        },
+        {
+            "item": "Pineapple",
+            "price": 180,
+            "image": "pineapple.jpg"
+        }
+    ]
+}
